@@ -1,0 +1,15 @@
+C:\Users\USER\Source\Repos\CarList\obj\Debug\net6.0\CarList.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\CarList\obj\Debug\net6.0\CarList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\CarList\obj\Debug\net6.0\CarList.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\CarList\obj\Debug\net6.0\CarList.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\CarList\obj\Debug\net6.0\CarList.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\CarList\bin\Debug\net6.0\CarList.exe
+C:\Users\USER\Source\Repos\CarList\bin\Debug\net6.0\CarList.deps.json
+C:\Users\USER\Source\Repos\CarList\bin\Debug\net6.0\CarList.runtimeconfig.json
+C:\Users\USER\Source\Repos\CarList\bin\Debug\net6.0\CarList.dll
+C:\Users\USER\Source\Repos\CarList\bin\Debug\net6.0\CarList.pdb
+C:\Users\USER\Source\Repos\CarList\obj\Debug\net6.0\CarList.dll
+C:\Users\USER\Source\Repos\CarList\obj\Debug\net6.0\refint\CarList.dll
+C:\Users\USER\Source\Repos\CarList\obj\Debug\net6.0\CarList.pdb
+C:\Users\USER\Source\Repos\CarList\obj\Debug\net6.0\CarList.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\CarList\obj\Debug\net6.0\ref\CarList.dll
